@@ -93,7 +93,7 @@ a {
 }
 
 #loadHeader {
-    content: url(https://i.imgur.com/WgkzcKF.png);
+    content: url(https://imgur.com/a/qhb87pA);
     height: 280px;
 }
 
@@ -244,7 +244,7 @@ a {
 /*https://cdn.discordapp.com/attachments/785234774427959349/818683453653647400/yukilogored.png*/
 
 #mainLogo {
-    content: url(https://i.imgur.com/WgkzcKF.png);
+    content: url(https://imgur.com/a/qhb87pA);
     height: 180px;
     filter: drop-shadow(2px 2px 0px var(--bg-color)) drop-shadow(-2px -2px 0px var(--bg-color)) drop-shadow(2px -2px 0px var(--bg-color)) drop-shadow(-2px 2px 0px var(--bg-color)) drop-shadow(4px 4px 0px var(--bg-color));
     margin-top: 00px;
